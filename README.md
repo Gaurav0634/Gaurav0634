@@ -1,7 +1,8 @@
-[![MasterHead](https://www.canva.com/design/DAFv8ccRLA4/j0ajQSlTYOJFuTocBs-gPQ/view?utm_content=DAFv8ccRLA4&utm_campaign=designshare&utm_medium=link&utm_source=editor)](https://gauravdev.me)
+[<img src="./Black Technology LinkedIn Banner.png">](https://wwww.gauravdev.me/)
+
 <h1 align="center">Hi there, I'm Gaurav Singh 👋</h1>
 <h3 align="center">Passionate App Developer</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://pin.it/10O1PIw)">
+<img align="right" alt="Coding" width="400" src="./Mappr_Front_End_Developer_md.gif">
 
 
 - 🔭 I’m currently working on [ARcademy](https://github.com/Gaurav0634/ARcademy)
