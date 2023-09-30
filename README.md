@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ARCore, Sceneview**
 
-- 👨‍💻 All of my projects are available at [gauravdev.me](gauravdev.me)
+- 👨‍💻 All of my projects are available at [gauravdev.me](https://www.gauravdev.me/)
 
 - 💬 Ask me about **Flutter and Java**
 
