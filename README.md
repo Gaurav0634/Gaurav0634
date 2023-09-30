@@ -1,4 +1,4 @@
-[<img src="./Black Technology LinkedIn Banner.png">](https://wwww.gauravdev.me/)
+[<img src="./Black Technology LinkedIn Banner.png">](https://www.gauravdev.me/)
 
 <h1 align="center">Hi there, I'm Gaurav Singh 👋</h1>
 <h3 align="center">Passionate App Developer</h3>
