@@ -21,5 +21,5 @@ const gaurav = {
 
 Presently engaged in crafting [ARoomVue](https://github.com/Gaurav0634/ARoomVue), an immersive furniture e-commerce application. [<img src="https://media.giphy.com/media/ZGI3wLEZSDwi2Lx0lC/giphy.gif" width="30">](https://www.youtube.com/watch?si=hnLuFf_NcaxZAV6u&v=29sLNrCqM2k&feature=youtu.be)
 
-Developing enriching educational experiences through [ARcademy](https://github.com/Gaurav0634/ARcademy), an AR-infused learning platform.[<img src="https://media.giphy.com/media/ZGI3wLEZSDwi2Lx0lC/giphy.gif" width="30">](https://www.youtube.com/watch?si=hnLuFf_NcaxZAV6u&v=29sLNrCqM2k&feature=youtu.be)
+Developing enriching educational experiences through [ARcademy](https://github.com/Gaurav0634/ARcademy), an AR-infused learning platform.[<img src="https://media.giphy.com/media/ZGI3wLEZSDwi2Lx0lC/giphy.gif" width="30">](https://www.youtube.com/watch?v=trSWG3O1MsE&t=1s)
 
