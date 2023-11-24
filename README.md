@@ -1,4 +1,4 @@
-<h1 >Hi, I am Gaurav Singh!<img src="https://media.giphy.com/media/v0dGnTDFgEr68myH0C/giphy.gif" width="50"></h1>
+<h1 >Hi, I'm Gaurav Singh!<img src="https://media.giphy.com/media/v0dGnTDFgEr68myH0C/giphy.gif" width="50"></h1>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif">
 
 <p align="justify">I am Gaurav, an Android Developer committed to weaving innovative experiences using Java, Kotlin, Flutter, and the intriguing world of Augmented Reality <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </p> 
