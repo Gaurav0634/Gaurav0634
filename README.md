@@ -19,7 +19,36 @@ const gaurav = {
 } 
 ```
 <h1 >Some of my work<img src="https://media.giphy.com/media/v0dGnTDFgEr68myH0C/giphy.gif" width="50"></h1>
-<h3 >BROWCH ELYAS: Fashiom Online Store</h3>
 
-<img src="Untitled design (1).gif" width="250">
+<h3 >BROWCH ELYAS: Fashion Online Store</h3>
+<div style="overflow-x: auto; white-space: nowrap;">
+    <img src="Untitled design (1).gif" style="display: inline-block; width: 250px; margin-right: 10px;">
+    <img src="01.jpg" style="display: inline-block; width: 230px; margin-right: 10px;">
+  <img src="02.jpg" style="display: inline-block; width: 230px;margin-right: 10px;">
+  <img src="03.jpg" style="display: inline-block; width: 230px; margin-right: 10px;">
+    <!-- Add more images in a similar fashion -->
+</div>
+
+
+<h3 >RockBand Ticket Booking</h3>
+<div style="overflow-x: auto; white-space: nowrap;">
+    <img src="Copy of Untitled.gif" style="display: inline-block; width: 500px; margin-right: 10px;">
+    <img src="12.png" style="display: inline-block; width: 450px; margin-right: 10px;">
+  <img src="14.png" style="display: inline-block; width: 450px;margin-right: 10px;">
+  <img src="16.png" style="display: inline-block; width: 450px; margin-right: 10px;">
+    <!-- Add more images in a similar fashion -->
+</div>
+
+
+<h3 >The Wellhall</h3>
+<div style="overflow-x: auto; white-space: nowrap;">
+    <img src="Untitled design (3).gif" style="display: inline-block; width: 500px; margin-right: 10px;">
+    <img src="23.png" style="display: inline-block; width: 450px; margin-right: 10px;">
+  <img src="24.png" style="display: inline-block; width: 450px;margin-right: 10px;">
+    <!-- Add more images in a similar fashion -->
+</div>
+
+
+
+
 
