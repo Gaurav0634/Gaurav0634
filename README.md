@@ -18,9 +18,11 @@ const gaurav = {
   challenge: "I'm currently engaged in expanding my proficiency in Android development, focusing on Kotlin and Java."
 } 
 ```
-<h1 >Some of my work<img src="https://media.giphy.com/media/v0dGnTDFgEr68myH0C/giphy.gif" width="50"></h1>
+<h1 >Some of my work<img src="https://media.giphy.com/media/sGBejL5i7iS9RTMnKx/giphy.gif" width="50"></h1>
 
-<h3 >BROWCH ELYAS: Fashion Online Store</h3>
+<a href="https://github.com/Gaurav0634/Browch_Elyas">
+    <h3>BROWCH ELYAS - Fashion Online Store</h3>
+</a>
 <div style="overflow-x: auto; white-space: nowrap;">
     <img src="Untitled design (1).gif" style="display: inline-block; width: 250px; margin-right: 10px;">
     <img src="01.jpg" style="display: inline-block; width: 230px; margin-right: 10px;">
@@ -30,7 +32,7 @@ const gaurav = {
 </div>
 
 
-<h3 >RockBand Ticket Booking</h3>
+<h3 >RockRise Reservations</h3>
 <div style="overflow-x: auto; white-space: nowrap;">
     <img src="Copy of Untitled.gif" style="display: inline-block; width: 500px; margin-right: 10px;">
     <img src="12.png" style="display: inline-block; width: 450px; margin-right: 10px;">
@@ -48,7 +50,19 @@ const gaurav = {
     <!-- Add more images in a similar fashion -->
 </div>
 
+<a href="https://github.com/Gaurav0634/ARcademy">
+    <h3>ARcademy - AR learning App</h3>
+</a>
+<div style="overflow-x: auto; white-space: nowrap;">
+    <img src="Untitled design (5).gif" style="display: inline-block; width: 250px; margin-right: 10px;">
+    <img src="51.jpg" style="display: inline-block; width: 230px; margin-right: 10px;">
+  <img src="52.jpg" style="display: inline-block; width: 450px;margin-right: 10px;">
+  <img src="53.jpg" style="display: inline-block; width: 230px; margin-right: 10px;">
+  <img src="54.jpg" style="display: inline-block; width: 230px; margin-right: 10px;">
+    <!-- Add more images in a similar fashion -->
+</div>
 
 
-
-
+<p align="center">
+    <a href="mailto:gauravomen@gmail.com">gauravomen@gmail.com</a>
+</p>
